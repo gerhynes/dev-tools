@@ -19,7 +19,7 @@ console.log("Hello, I am a %s string", "test");
 console.warn("OH NOOOOO!!");
 
 // Error :|
-console.error("Shite!");
+console.error("Feck!");
 
 // Info
 console.info("Crocodiles eat 3-4 people per year");
